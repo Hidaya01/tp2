@@ -1,0 +1,23 @@
+body{
+    background-color: peachpuff;
+}
+.card{
+    box-sizing: border-box;
+    border: 1px black;
+    box-shadow: 10px gray;
+    margin: 10px;
+    text-align: center;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    color: aliceblue;
+    border: none;
+    border-radius: 50px;
+}
+img{
+    width: 150px;
+    font-weight: bold;
+}
